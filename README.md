@@ -21,6 +21,7 @@ I'm a **Platform Engineer from Colombia** with **9+ years of experience** buildi
 | :--- | :--- |
 | **[overpower.lol](https://overpower.lol)** | A 2D browser battle royale inspired by Power Swing. Up to 16 players, bots, private rooms, and voice chat. Built with Phaser, Cloudflare Workers, and Durable Objects. |
 | **[rfaf](https://github.com/juancarestre/rfaf)** | **Read Fast As F\*ck.** A high-focus speed reader in your terminal, built with Bun + Ink, with optional AI transforms. |
+| **[bitcoin-obsessed-live-wallpaper](https://github.com/juancarestre/bitcoin-obsessed-live-wallpaper)** | A free Android Bitcoin live wallpaper with candlestick widgets and price alerts. Built with Kotlin and JavaScript. Couldn't find the app I wanted, so I built it. |
 | **[happyproblems.ai](https://happyproblems.ai)** | A community for finding real problems and validating ideas before building the solution. |
 | **[hesitationisdefeat.com](https://hesitationisdefeat.com)** | An online card game inspired by Triple Triad. Because building games is a perfectly reasonable use of cloud infrastructure. |
 
